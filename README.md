@@ -12,7 +12,7 @@ Fullstack Web Developer with knowledege in JavaScript, CSS, HTML, React / Redux,
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemunevarn&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemunevarn&theme=merko)](https://github.com/felipemunevarn/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemunevarn&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemunevarn&theme=merko)](https://github.com/felipemunevarn/github-readme-stats)
 
