@@ -1,6 +1,7 @@
-### Hi there 👋, I am Felipe Munevar
+### Hi there 👋, I am Felipe Munevar!
 
-Fullstack Web Developer with knowledege in JavaScript, CSS, HTML, React / Redux, Node.js, PostgreSQL, SQLite, Sequelize, Testing (Mocha, Jasmine, Chai) and Git, Spanish native. Certifications in Python and MySQL. Large experience developing engineering projects with different teams. Great sense of responsability and results oriented skill. I am quiet excited about software developing and desiring to learn and to improve in it.
+| Fullstack Web Developer with knowledege in JavaScript, CSS, HTML, React / Redux, Node.js, PostgreSQL, SQLite, Sequelize, Testing (Mocha, Jasmine, Chai) and Git, Spanish native. Certifications in Python and MySQL. Large experience developing engineering projects with different teams. Great sense of responsability and results oriented skill. I am quiet excited about software developing and desiring to learn and to improve in it. | <img src="https://media.giphy.com/media/gZEBpuOkPuydi/giphy.gif" alt="Calvin gif" /> |
+| ---------------------------------------------------------------------------- | ------- |
 
 ---
 
